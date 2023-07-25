@@ -1,7 +1,7 @@
-![Header](Images/CecySamitu.png)
+![Header](CecySamitu.png)
 
 <ul>
-  <li><b>👤 Name:  </b> Malinali Becerril </li>
+  <li><b>👤 Name:  </b> Cecilia San Miguel </li>
   <li><b>😄 Pronouns: </b>  She/Her </li>
   <li><b>📍 Location:  </b> Mexico City 🇲🇽 </li>
   <li><b>📣 Languages skills: </b> Spanish, English & French </li>
@@ -37,10 +37,10 @@
 
 ****
 
-### Hobbys
+#### Hobbys
 
 I like to learn new things and design on any subject.
-(Images/Web.png)
+(Web.png)
 
 #### Contact
 
