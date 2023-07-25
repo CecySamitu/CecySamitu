@@ -40,7 +40,7 @@
 #### Hobbys
 
 I like to learn new things and design on any subject.
-(Web.webp)
+(Web.png)
 
 #### Contact
 
