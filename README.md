@@ -7,7 +7,8 @@
   <li><b>📣 Languages skills: </b> Spanish, English & French </li>
 </ul>
 
-Read more about me [https://main--vermillion-cupcake-706690.netlify.app/](https://main--vermillion-cupcake-706690.netlify.app/)
+Read more about me:
+[https://main--vermillion-cupcake-706690.netlify.app/](https://main--vermillion-cupcake-706690.netlify.app/)
 
 #### SKILLS:
 
