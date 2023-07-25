@@ -1,4 +1,4 @@
-![Header](CecySamitu.png)
+![Header](CecySamitu.jpg)
 
 <ul>
   <li><b>👤 Name:  </b> Cecilia San Miguel </li>
@@ -40,7 +40,7 @@
 #### Hobbys
 
 I like to learn new things and design on any subject.
-(Web.png)
+(Web.webp)
 
 #### Contact
 
