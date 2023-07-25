@@ -1,4 +1,4 @@
-![Header](CecySamitu.jpg)
+![Header](Cecy_Samitu.jpg)
 
 <ul>
   <li><b>👤 Name:  </b> Cecilia San Miguel </li>
